@@ -1,2 +1,2 @@
 # CgRAG
-A chain-of-question guided retrieval for MLLM-based KBVQA
+Enhancing Visual Question Answering with Multimodal LLMs via Chain-of-Question Guided Retrieval-Augmented Generation
