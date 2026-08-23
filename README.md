@@ -16,6 +16,8 @@ Three retrieval processes are involved: original image retrieval, multimodal ret
 
 <img src="./images/MMRAG.png" width="800">
 
+## Code
+The source code and pretrained models will be released upon acceptance.
 ## Paper
 [arXiv Paper](https://arxiv.org/abs/2605.03790)
 ## Citation
