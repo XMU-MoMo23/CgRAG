@@ -6,4 +6,4 @@ We introduce a logical prompting strategy that fuses Chain‑of‑Thought (CoT) 
 <img src="./images/Architecture.png" width="850">
 ## VQD by Bert
 Prediction of logical relations among sub-questions. A pre-trained BERT is employed to infer logical implications between sub-questions for liDPO.
-<img src="./images/Architecture.png" width="850">
+<img src="./images/liDPO.png" width="600">
