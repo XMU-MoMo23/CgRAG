@@ -16,3 +16,7 @@ Three retrieval processes are involved: original image retrieval, multimodal ret
 
 <img src="./images/MMRAG.png" width="800">
 
+## Paper
+[arXiv Paper](https://arxiv.org/abs/2605.03790)
+## Citation
+Citation information will be provided upon publication.
